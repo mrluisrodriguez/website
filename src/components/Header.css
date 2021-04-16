@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    height: auto;
+    border: solid 1px red;
+    display: flex;
+    justify-content: center;
+}
+
+.navContainer {
+    width: 800px;
+    /* height: auto; */
+    border: solid 1px blue;
+    display: flex;
+    justify-content: center;
+}
